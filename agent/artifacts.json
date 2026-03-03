@@ -1,9 +1,5 @@
 {
   "agent": {
-    "bootstrap": {
-      "url": "",
-      "version": ""
-    },
     "linux-amd64": {
       "url": "",
       "sha256": "",
