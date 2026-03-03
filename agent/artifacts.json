@@ -1,3 +1,20 @@
 {
-  "$key": "Implemented later"
+  "agent": {
+    "bootstrap": {
+      "url": "",
+      "version": ""
+    },
+    "linux-amd64": {
+      "url": "",
+      "sha256": "",
+      "version": "",
+      "title": "Helguard Agent for Linux (x86_64 / amd64)"
+    },
+    "linux-arm64": {
+      "url": "",
+      "sha256": "",
+      "version": "",
+      "title": "Helguard Agent for Linux (ARM64)"
+    }
+  }
 }
