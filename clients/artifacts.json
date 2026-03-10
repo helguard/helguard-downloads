@@ -1,3 +1,22 @@
 {
-  "$key": "Implemented later"
+  "clients": {
+    "macos-universal": {
+      "url": "https://github.com/helguard/helguard-clients/releases/download/v0.1.0-dev/helguard_0.1.0-dev_macos_universal.dmg",
+      "sha256": "f6e6b028579b1d821e70b5704bf5cc13a89bc3dbb6efd517d6efd92e003d338f",
+      "version": "0.1.0-dev",
+      "title": "Helguard Client for macOS (Universal)"
+    },
+    "windows-amd64": {
+      "url": "https://github.com/helguard/helguard-clients/releases/download/v0.1.0-dev/helguard_0.1.0-dev_windows_amd64.exe",
+      "sha256": "b893d884290d0a26616bbe53fe3e011f34149b4c79d0e9c65018ec8a5fd65961",
+      "version": "0.1.0-dev",
+      "title": "Helguard Client for Windows (x86_64 / amd64)"
+    },
+    "windows-arm64": {
+      "url": "https://github.com/helguard/helguard-clients/releases/download/v0.1.0-dev/helguard_0.1.0-dev_windows_arm64.exe",
+      "sha256": "93c957991c0b8d05606fd457dd3d5fbcb12742f530ff1c0f52b962d911c343ad",
+      "version": "0.1.0-dev",
+      "title": "Helguard Client for Windows (ARM64)"
+    }
+  }
 }
