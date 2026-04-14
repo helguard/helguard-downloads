@@ -1,15 +1,15 @@
 {
   "agent": {
     "linux-amd64": {
-      "url": "https://github.com/helguard/helguard-agent/releases/download/v0.16.2/helguard-agent-linux-amd64.tar.gz",
-      "sha256": "9a8115a8700316e527e703c88cdd40948836ef77827288f741bf4c99204b5a3c",
-      "version": "v0.16.2",
+      "url": "https://github.com/helguard/helguard-agent/releases/download/v0.16.3/helguard-agent-linux-amd64.tar.gz",
+      "sha256": "9f7d026153d1e7516780638a49817bc375f8b9564a914bed6d2efa17a2e956e4",
+      "version": "v0.16.3",
       "title": "Helguard Agent for Linux (x86_64 / amd64)"
     },
     "linux-arm64": {
-      "url": "https://github.com/helguard/helguard-agent/releases/download/v0.16.2/helguard-agent-linux-arm64.tar.gz",
-      "sha256": "3875257f35e43cbdf3682d136fe3c80cd1ca95e5fdbdcf43426b0e3f5d06ecfa",
-      "version": "v0.16.2",
+      "url": "https://github.com/helguard/helguard-agent/releases/download/v0.16.3/helguard-agent-linux-arm64.tar.gz",
+      "sha256": "7b8f65efaead59f2ebbdaef1df899eb4c630b937b50abe8b8249c0cd29d38a8d",
+      "version": "v0.16.3",
       "title": "Helguard Agent for Linux (ARM64)"
     }
   }
